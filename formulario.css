@@ -1,0 +1,44 @@
+body{
+
+    background-image: url(Imagem.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 5%;
+    border-color: rgba(156, 157, 158, 0.493);
+    color: white;
+}
+
+h1{
+color: rgb(255, 255, 255);
+font-size: xx-large;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+label{
+color: rgb(255, 255, 255);
+font-size:medium;
+font-family: Georgia, 'Times New Roman', Times, serif;
+border-radius: 5%;
+border-color: rgba(156, 157, 158, 0.493);
+
+}
+
+.input{
+
+    margin-bottom: 1%;
+
+ }
+
+.input2{
+
+margin-bottom: 2%;
+}
+
+button{
+
+size: 10%;
+
+}
+
+
